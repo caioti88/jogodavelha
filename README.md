@@ -1,2 +1,2 @@
-# jogodavelha
+# jokenpo
 fiz um jokenpo 
